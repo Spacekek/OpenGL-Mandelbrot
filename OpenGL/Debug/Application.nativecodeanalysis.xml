@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<DEFECTS>
+  <DEFECT>
+    <SFA>
+      <FILEPATH>C:\testprograms\openGL\OpenGL\OpenGL\</FILEPATH>
+      <FILENAME>Application.cpp</FILENAME>
+      <LINE>188</LINE>
+      <COLUMN>38</COLUMN>
+    </SFA>
+    <DEFECTCODE>6255</DEFECTCODE>
+    <DESCRIPTION>_alloca indicates failure by raising a stack overflow exception.  Consider using _malloca instead.</DESCRIPTION>
+    <FUNCTION>CompileShader</FUNCTION>
+    <DECORATED>?CompileShader@@YAIIABV?$basic_string@DU?$char_traits@D@std@@V?$allocator@D@2@@std@@@Z</DECORATED>
+    <FUNCLINE>175</FUNCLINE>
+    <PATH></PATH>
+  </DEFECT>
+</DEFECTS>
